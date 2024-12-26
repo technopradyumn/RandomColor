@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211016175130",
+    "project_id": "randomcolor-app",
+    "storage_bucket": "randomcolor-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211016175130:android:883c1e0e059db6ab1f8ba3",
+        "android_client_info": {
+          "package_name": "com.technopradyumn.randomcolor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcHIuLs6ZqXbfvAZU5ViZtHIfOOBXq-kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
